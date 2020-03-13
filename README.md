@@ -39,6 +39,7 @@
 | Spring Boot | springboot、Springboot、SpringBoot |
 | Spring Cloud | springcloud、SpringCloud、Springcloud |
 | Spring MVC | springMVC、SpringMVC |
+| MyBatis | 
 | Linux | linux、LINUX |
 | Netty | netty |
 | Ngnix | ngnix、NGINX |
@@ -72,6 +73,7 @@
 | Webpack | webpack |
 | Intellij IDEA | intellij idea、idea |
 | Eclipse | eclipse |
+| Postman | postman|
 
 ### 其他
 
